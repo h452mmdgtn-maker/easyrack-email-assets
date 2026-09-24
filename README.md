@@ -1,0 +1,1 @@
+# easyrack-email-assets
